@@ -1,0 +1,17 @@
+1.Install Terraform 
+2.Install AWS CLI
+3.Create Gruop in AWS AMI and give required access
+4.Create user in AWS AMI
+5.Creare AMI security credential 
+
+#command in terminal
+
+#
+#   aws configure
+#put aws AMI credential
+
+
+# terraform init
+# terraform plan
+# terraform apply
+# terraform destroy
